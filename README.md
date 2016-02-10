@@ -10,5 +10,7 @@ Design Patterns Implemented:
 * Strategy Pattern: help make applying effects/abilities to our warriors modularly
 * Factory Pattern: called upon to create the enemies on the map
 * Simple Factory: produced consumable items to the map
-  
+
+[Game Design Document : shows UML for each pattern used](https://docs.google.com/presentation/d/16co299Hjm18dZ1U30dv3DpUIRJLvUhiAtxZgK7YrIJ8/edit?usp=sharing)
+
 [![Guy Running On the Screen](http://i.giphy.com/UCkUeSU9A53VK.gif)](http://i.giphy.com/UCkUeSU9A53VK.gif)
